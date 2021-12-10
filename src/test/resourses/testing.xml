@@ -3,7 +3,7 @@
 <suite name="Test Test Suite">
     <test name="Test Name">
         <classes>
-            <class name="base.BaseTest">
+            <class name="base.GetUrlTest">
             </class>
         </classes>
     </test> <!-- Test Test -->
